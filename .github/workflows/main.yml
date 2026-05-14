@@ -1,0 +1,15 @@
+name: Keep Alshefaa Alive
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # هيشتغل تلقائياً كل يوم الساعة 12 بالليل
+  workflow_dispatch: # بيسمح لكِ تشغليه يدوي في أي وقت
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Alshefaa Site
+        run: |
+          # استبدلي الرابط باللينك اللي فيرسل هتديهولك بعد الرفع
+          curl -s https://alshefaa-dashbord-fullstack.vercel.app
