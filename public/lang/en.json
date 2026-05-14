@@ -1,0 +1,500 @@
+{
+  "emptyState": {
+    "search": {
+      "title": "No search results",
+      "description": "We couldn't find any results matching your search. Try changing your search terms or filters."
+    },
+    "data": {
+      "title": "No data available",
+      "description": "No data was found to display at this time."
+    },
+    "error": {
+      "title": "An error occurred",
+      "description": "Sorry, an error occurred while loading the data. Please try again."
+    },
+    "general": {
+      "title": "No items",
+      "description": "No items to display at this time."
+    },
+    "loading": {
+      "title": "Loading",
+      "description": "Please wait while content loads."
+    }
+  },
+  "NotFound": {
+    "title": "Page Not Found",
+    "description": "Sorry, the page you are looking for does not exist or has been moved.",
+    "backButton": "Go Back",
+    "homeButton": "Go Home"
+  },
+  "validation": {
+    "first_name_required": "First name is required",
+    "last_name_required": "Last name is required",
+    "valid_email": "Please enter a valid email address.",
+    "email_required": "Email is required.",
+    "email_invalid": "Invalid email format.",
+    "phone_min": "Phone number must be at least 5 characters.",
+    "phone_max": "Phone number cannot exceed 15 characters.",
+    "password_required": "Password is required.",
+    "password_invalid": "Password must contain at least one uppercase letter, one lowercase letter, and one number.",
+    "password_max": "Password cannot exceed 15 characters.",
+    "agree_to_terms": "You must agree to the terms and conditions.",
+    "passwords_must_match": "Passwords must match.",
+    "otp_number_only": "OTP must contain only numbers.",
+    "otp_numbers_only": "OTP must contain only numbers.",
+    "otp_short": "OTP must be 4 digits.",
+    "otp_required": "OTP is required.",
+    "recipient_name_required": "Recipient name is required.",
+    "city_required": "City is required.",
+    "district_required": "District is required.",
+    "street_required": "Street is required.",
+    "postal_code_digits": "Postal code must be exactly 5 digits."
+  },
+  "This action can not be undone": "This action can not be undone",
+  "Are you sure": "Are you sure?",
+  "Are You sure": "Are you sure?",
+  "Reload": "Reload",
+  "Account": "Account",
+  "My Account": "My Account",
+  "Sign Out": "Sign Out",
+  "Terms and Conditions": "Terms & Conditions",
+  "Size Guide": "Size Guide",
+  "About Us": "About Us",
+  "Products": "Products",
+  "Sustainability": "Sustainability",
+  "Shop Here": "Shop Here",
+  "Sign Up": "Sign Up",
+  "Frist Name": "Frist Name",
+  "Last Name": "Last Name",
+  "Password": "Password",
+  "Email": "Email",
+  "First Name": "First Name",
+  "Enter your first name": "Enter your first name",
+  "Enter your last name": "Enter your last name",
+  "Enter your email": "Enter your email",
+  "Enter your phone number": "Enter your phone number",
+  "Enter your password": "Enter your password",
+  "I agree to the": "I agree to the",
+  "terms and conditions": "terms and conditions",
+  "Registered successfully": "Registered successfully",
+  "Show password": "Show password",
+  "Hide password": "Hide password",
+  "Login with gmail": "Login with gmail",
+  "Google login link is unavailable": "Google login link is unavailable",
+  "Already have an account": "Already have an account?",
+  "Login": "Login",
+  "Dont have an account": "Don't have an account?",
+  "Logged in successfully": "Logged in successfully",
+  "Remember me": "Remember me",
+  "Forgot your password": "Forgot your password?",
+  "OR": "OR",
+  "No categories found": "No categories found",
+  "No products found": "No products found",
+  "View": "View",
+  "OTP code has been sent to your email": "OTP code has been sent to your email",
+  "Forgot Password": "Forgot Password",
+  "Enter your email address below and we will send you a 5-digit password reset authentication code": "Enter your email address below and we will send you a 5-digit password reset authentication code",
+  "Home page": "Home page",
+  "Phone": "Phone",
+  "Location": "Location",
+  "Foundation Establishment": "Foundation Establishment (2021)",
+  "foundation": {
+    "title": "Foundation timeline",
+    "establishment": {
+      "title": "Foundation Establishment (2021)",
+      "points": [
+        "In 2021, we started the August District Foundation with the idea of having full control and transparency over how the money we raise for various causes is used.",
+        "Instead of donating money to other charitable organizations, we decided to create our own foundation.",
+        "This ensured that funds and resources could be easily monitored and sent directly to the source of the problem."
+      ]
+    },
+    "challenges": {
+      "title": "Challenges Of Registration & Approval",
+      "points": [
+        "Establishing a charitable foundation is extremely challenging due to very high standards and frequent application rejections.",
+        "Our application was rejected four times before finally being approved.",
+        "The entire process took around 1.5 years to complete."
+      ]
+    },
+    "charity": {
+      "title": "Official UK Charity Status (2023)",
+      "points": [
+        "In July 2023, we were officially admitted to the UK directory of charities.",
+        "We were assigned the charity number: 1203851.",
+        "This milestone enabled us to carry out our first mission in April 2024."
+      ]
+    },
+    "mission": {
+      "title": "Our Mission & Future Goals",
+      "points": [
+        "Our goal is to carry out one or two missions each year to support vulnerable communities around the world.",
+        "We have built a dedicated volunteer team to research and plan these missions effectively.",
+        "For transparency, we will physically attend and document each mission, publishing as much information as possible."
+      ]
+    }
+  },
+  "sustainability": {
+    "mainTitle": "Sustainability & Responsibility",
+    "sustainability": {
+      "title": "Sustainability",
+      "content": "We believe sustainability doesn't have to be perfect to make a difference. Real change happens when millions of people take small, imperfect steps toward more responsible choices."
+    },
+    "philosophy": {
+      "title": "Our Philosophy",
+      "content": "Sustainability should feel achievable, not overwhelming. Doing something imperfectly is better than doing nothing at all.",
+      "beliefsIntro": "We believe:",
+      "beliefs": [
+        "Progress matters more than perfection",
+        "Everyone can contribute in their own way",
+        "Small steps create real impact"
+      ]
+    },
+    "fashion": {
+      "title": "Fashion & Responsibility",
+      "content": "Fashion consumption is at an all-time high, contributing significantly to pollution and waste. While producing nothing would be the only way to leave zero impact, this is unrealistic in an industry that supports millions of livelihoods worldwide.",
+      "focus": [
+        "Long-term, realistic solutions",
+        "Ethical and safe working conditions",
+        "Reducing environmental impact across production"
+      ]
+    },
+    "reality": {
+      "title": "The Reality Of Sustainability",
+      "content": "Sustainability is a complex and evolving journey. Unfortunately, it's often misunderstood as restrictive, expensive, or all-or-nothing.",
+      "truths": [
+        "Every product has a cost",
+        "Fast fashion creates massive waste and pollution",
+        "Cheap fabrics often come with hidden environmental and health impacts"
+      ]
+    },
+    "beyond": {
+      "title": "Beyond Greenwashing",
+      "content": "To us, sustainability is not a marketing trend. It's about creating meaningful change, not guilt-driven purchasing. Since day one:",
+      "points": [
+        "Every production decision considers sustainability",
+        "Design and responsibility go hand in hand",
+        "Our name reflects our awareness of fashion's impact"
+      ]
+    },
+    "rightWay": {
+      "title": "Doing Things The Right Way",
+      "content": "We choose ethical production over shortcuts, even if it takes more time.",
+      "commitment": [
+        "Ethical manufacturing practices",
+        "Organic and recycled fabrics",
+        "High-quality pieces built to last"
+      ]
+    },
+    "transparency": {
+      "title": "Transparency & Progress",
+      "content": "Fashion is one of the most polluting industries, and we know there's still more work to be done. We're committed to being transparent about where we are and where we're improving.",
+      "goal": [
+        "Continuous improvement",
+        "Honest communication",
+        "Inspiring more conscious choices, no matter how small"
+      ]
+    },
+    "footer": "Every step counts. Join us in making more conscious choices."
+  },
+  "Frequently Asked Questions": "Frequently Asked Questions",
+  "Can i return the products": "Can i return the products?",
+  "yes after buying the product you have a 15 days to return it": "Yes, after buying the product you have a 15 days open window to return it!",
+  "Support": "Support",
+  "Help Center": "Help Center",
+  "Select Your Preferred Currency for pricing and payments across the platform": "Select Your Preferred Currency for pricing and payments across the platform",
+  "Maybe later": "Maybe later",
+  "Confirm Selection": "Confirm Selection",
+  "Select your currency": "Select your currency",
+  "SAR": "SAR",
+  "USD": "USD",
+  "US Dollar": "US Dollar",
+  "Saudi Riyal": "Saudi Riyal",
+  "Menu": "Menu",
+  "The Shop": "The Shop",
+  "Shop by category": "Shop by category",
+  "Categories": "Categories",
+  "Search": "Search",
+  "Price range": "Price range",
+  "Showing {{count}} results": "Showing {{count}} results",
+  "Reset": "Reset",
+  "Adding...": "Adding...",
+  "Hoodies and Jackets": "Hoodies & Jackets",
+  "Shop Now": "Shop Now",
+  "T-Shirts": "T-Shirts",
+  "Pants and Shorts": "Pants & Shorts",
+  "Accessories": "Accessories",
+  "Sweatpants": "Sweatpants",
+  "My Profile": "My Profile",
+  "Change Password": "Change Password",
+  "Order History": "Order History",
+  "My favorites": "My favorites",
+  "Logout": "Logout",
+  "Confirm": "Confirm",
+  "Cancel": "Cancel",
+  "Are you sure you want to log out of your account": "Are you sure you want to log out of your account?",
+  "Save changes": "Save changes",
+  "Current Password": "Current Password",
+  "New Password": "New Password",
+  "Confirm New Password": "Confirm New Password",
+  "Total": "Total",
+  "Items number": "Items number",
+  "Shipping costs": "Shipping costs",
+  "in-transit": "In Transit",
+  "delivered": "Delivered",
+  "cancelled": "Cancelled",
+  "processing": "Processing",
+  "The code was not sent": "The code was't sent?",
+  "Resend the code": "Resend the code",
+  "resend_in": "Resend in {{count}} seconds",
+  "resend_in_one": "Resend in {{count}} second",
+  "resend_in_two": "Resend in {{count}} seconds",
+  "resend_in_few": "Resend in {{count}} seconds",
+  "resend_in_many": "Resend in {{count}} seconds",
+  "Please wait before requesting another OTP": "Please wait before requesting another OTP",
+  "Verification successful": "Verification successful",
+  "A 5-digit verification code has been sent to It will be available within a minute": "A 5-digit verification code has been sent to {{email}} , It will be available within a minute",
+  "Product Name": "Product Name",
+  "unit_price": "Unit Price",
+  "Stock": "Stock",
+  "Actions": "Actions",
+  "Add to Cart": "Add to Cart",
+  "in-stock": "In Stock",
+  "out-of-stock": "Out of Stock",
+  "terms": {
+    "mainTitle": "Terms & Conditions",
+    "lastUpdated": "Last updated: March 2025",
+    "footer": "By using our services, you agree to these Terms & Conditions.",
+    "companyNumber": "Company Number: 1203851",
+    "appliesTo": "Applies to:",
+    "terms": {
+      "title": "Terms & Conditions",
+      "content": "By using our website and services, you agree to be bound by our Terms & Conditions, including all policies referenced on this page. These terms apply to all users of the site and govern your access to and use of our services.",
+      "points": [
+        "Operated by Broken Planet Market Ltd",
+        "Applies to all visitors, customers, and contributors",
+        "Continued use means acceptance of changes",
+        "Terms may be updated at any time"
+      ]
+    },
+    "returns": {
+      "title": "Returns",
+      "content": "We accept returns within 30 days of receiving your item, provided it is faulty or damaged and returned unused in its original condition.",
+      "points": [
+        "Returns must be arranged via support@brokenplanet.com",
+        "Customers cover return shipping costs",
+        "Return shipping costs will be deducted from refunds",
+        "Shipping fees are non-refundable"
+      ]
+    },
+    "customs": {
+      "title": "Customs Charges",
+      "content": "Any customs or import charges incurred are the responsibility of the customer and are not covered by Broken Planet."
+    },
+    "store": {
+      "title": "Online Store Terms",
+      "content": "By using our store, you confirm that you are legally eligible to do so and agree not to use our products or services for any unlawful purpose. You agree not to:",
+      "restrictions": [
+        "Violate any laws or regulations",
+        "Transmit harmful code or viruses",
+        "Misuse the service in any way",
+        "Violations may result in termination of service"
+      ]
+    },
+    "general": {
+      "title": "General Conditions",
+      "content": "We reserve the right to refuse service to anyone at any time. All content and services are provided for personal use only unless.",
+      "notes": [
+        "Credit card information is always encrypted",
+        "Unauthorized use, resale, or duplication is prohibited",
+        "Section headings are for convenience only"
+      ]
+    },
+    "accuracy": {
+      "title": "Accuracy Of Information",
+      "content": "We do our best to ensure all information is accurate and up to date, but we do not guarantee completeness or timeliness.",
+      "points": [
+        "Reliance on site information is at your own risk",
+        "Content may change without notice"
+      ]
+    },
+    "products": {
+      "title": "Products & Services",
+      "content": "Some products are available exclusively online and in limited quantities.",
+      "details": [
+        "Subject to availability and change",
+        "Colors may vary depending on screen display",
+        "Returns follow our Returns Policy only"
+      ]
+    },
+    "billing": {
+      "title": "Billing & Account Information",
+      "content": "We may refuse or cancel orders at our discretion. You agree to:",
+      "requirements": [
+        "Provide accurate and up-to-date account details",
+        "Update information as needed to complete transactions"
+      ]
+    },
+    "thirdParty": {
+      "title": "Third-Party Tools & Links",
+      "content": "We may provide access to third-party tools or links, which are offered 'as is.'",
+      "points": [
+        "We are not responsible for third-party content or services",
+        "Use is at your own risk"
+      ]
+    },
+    "comments": {
+      "title": "User Comments & Submissions",
+      "content": "Any feedback or submissions you provide may be used by us without restriction. You are responsible for:",
+      "responsibilities": [
+        "The accuracy of your comments",
+        "Ensuring content is lawful and respectful"
+      ]
+    },
+    "personalInfo": {
+      "title": "Personal Information",
+      "content": "Your personal data is handled according to our Privacy Policy."
+    },
+    "prohibited": {
+      "title": "Prohibited Uses",
+      "content": "You may not use our site or services for unlawful, abusive, misleading, or harmful activities.",
+      "points": ["Violation may result in immediate termination of access"]
+    },
+    "disclaimer": {
+      "title": "Disclaimer & Limitation Of Liability",
+      "content": "Our services and products are provided 'as is' without warranties of any kind. We are not liable for:",
+      "liabilities": [
+        "Service interruptions or errors",
+        "Indirect or consequential damages",
+        "Losses arising from use of the site or products"
+      ]
+    },
+    "termination": {
+      "title": "Termination",
+      "content": "These Terms remain in effect unless terminated by you or us. We may suspend or terminate access if terms are violated."
+    },
+    "governingLaw": {
+      "title": "Governing Law",
+      "content": "These Terms are governed by and interpreted in accordance with the laws of the United Kingdom."
+    },
+    "changes": {
+      "title": "Changes To Terms",
+      "content": "We may update these Terms at any time. Continued use of the site constitutes acceptance of any changes."
+    },
+    "contactUs": {
+      "title": "Contact Us",
+      "content": "For questions regarding these Terms, please contact:\n <a href='mailto:support@brokenplanet.com'>support@brokenplanet.com</a>"
+    }
+  },
+  "Size guide categories": "Size guide categories",
+  "Loading": "Loading",
+  "An error occurred": "An error occurred",
+  "No favorites found": "No favorites found",
+  "Your cart is empty": "Your cart is empty",
+  "Browse our products and add items to your cart to see them here.": "Browse our products and add items to your cart to see them here.",
+  "Go to Products": "Go to Products",
+  "Shopping Cart": "Shopping Cart",
+  "You have {{count}} items in your cart.": "You have {{count}} items in your cart.",
+  "Remove": "Remove",
+  "Order Summary": "Order Summary",
+  "Subtotal": "Subtotal",
+  "Shipping (calculated at checkout)": "Shipping (calculated at checkout)",
+  "Proceed to Checkout": "Proceed to Checkout",
+  "Clear Cart": "Clear Cart",
+  "Continue Shopping": "Continue Shopping",
+  "Product image": "Product image",
+  "Loading product...": "Loading product...",
+  "Failed to load product details.": "Failed to load product details.",
+  "Product ID": "Product ID",
+  "View Size Guide": "View Size Guide",
+  "Policies": "Policies",
+  "Dealing policies": "Dealing policies",
+  "Tamara": "Tamara",
+  "Tabby": "Tabby",
+  "/ Month for up to 24 months": "/ Month for up to 24 months",
+  "/ Month for up to 4 months": "/ Month for up to 4 months",
+  "Product actions": "Product actions",
+  "Buy Now": "Buy Now",
+  "Remove from favorites": "Remove from favorites",
+  "Add to favorites": "Add to favorites",
+  "Size": "Size",
+  "Quantity": "Quantity",
+  "Colors": "Colors",
+  "Decrease quantity": "Decrease quantity",
+  "Increase quantity": "Increase quantity",
+  "Team": "Team",
+  "Era": "Era",
+  "Default sorting": "Default sorting",
+  "Showing 1-9 of 86 results": "Showing 1-9 of 86 results",
+  "All categories": "All categories",
+  "All Products": "All Products",
+  "Previous page": "Previous page",
+  "Next page": "Next page",
+  "View cart": "View cart",
+  "View favorites": "View favorites",
+  "My addresses": "My addresses",
+  "Add address": "Add address",
+  "Edit address": "Edit address",
+  "Delete address": "Delete address",
+  "Set as default": "Set as default",
+  "Default": "Default",
+  "Address label": "Label (e.g. Home, Work)",
+  "Recipient name": "Recipient name",
+  "Delivery phone": "Delivery phone",
+  "City": "City",
+  "District": "District",
+  "Street": "Street",
+  "Building number": "Building number",
+  "Postal code": "Postal code",
+  "Delivery notes": "Delivery notes",
+  "Country": "Country",
+  "Saudi Arabia": "Saudi Arabia",
+  "No saved addresses": "No saved addresses",
+  "Add your first delivery address to checkout faster.": "Add your first delivery address to checkout faster.",
+  "Save address": "Save address",
+  "Checkout": "Checkout",
+  "Select delivery address": "Select delivery address",
+  "Place order": "Place order",
+  "Order placed": "Order placed",
+  "Add an address before placing your order.": "Add an address before placing your order.",
+  "Sign in to checkout": "Sign in to checkout",
+  "Verify your phone (OTP) to place orders.": "Verify your phone (OTP) to place orders.",
+  "Cart not ready": "Cart not ready",
+  "Shipping address": "Shipping address",
+  "Order details": "Order details",
+  "No orders yet": "No orders yet",
+  "Your orders will appear here.": "Your orders will appear here.",
+  "Profile updated successfully": "Profile updated successfully",
+  "Failed to update profile": "Failed to update profile",
+  "order": {
+    "status": {
+      "pending": "Pending",
+      "completed": "Completed",
+      "rejected": "Rejected"
+    },
+    "payment_status": {
+      "pending": "Pending",
+      "completed": "Completed",
+      "rejected": "Rejected"
+    }
+  },
+  "Verify account": "Verify account",
+  "Enter the 4-digit verification code sent to your phone or email.": "Enter the 4-digit verification code sent to your phone or email.",
+  "Resend code": "Resend code",
+  "Resend code in {{seconds}}s": "Resend code in {{seconds}}s",
+  "Back to login": "Back to login",
+  "A new verification code has been sent": "A new verification code has been sent",
+  "Unable to resend verification code": "Unable to resend verification code",
+  "Please wait {{seconds}} seconds before requesting a new code": "Please wait {{seconds}} seconds before requesting a new code",
+  "Payment succeeded": "Payment succeeded",
+  "Payment failed": "Payment failed",
+  "Your payment has been processed successfully.": "Your payment has been processed successfully.",
+  "We could not complete your payment. Please try again.": "We could not complete your payment. Please try again.",
+  "Reference": "Reference",
+  "View my orders": "View my orders",
+  "Try payment again": "Try payment again",
+  "Back to home": "Back to home",
+  "cart": {
+    "added_success": "Product added to cart successfully",
+    "remove_success": "Product removed from cart successfully"
+  }
+}
