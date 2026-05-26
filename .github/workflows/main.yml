@@ -12,4 +12,4 @@ jobs:
       - name: Ping Alshefaa Site
         run: |
           # استبدلي الرابط باللينك اللي فيرسل هتديهولك بعد الرفع
-          curl -s https://alshefaa-dashbord-fullstack.vercel.app
+curl -s https://yedflaybetuzribvcsmk.supabase.co/rest/v1/
